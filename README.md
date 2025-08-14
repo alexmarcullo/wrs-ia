@@ -74,7 +74,7 @@ source .venv/bin/activate    # macOS/Linux
 
 Arquivo **Modelfile**:
 ```
-FROM llama2
+FROM llama3.1:8b
 SYSTEM """
 Você é um assistente especializado em orientar alunos em perguntas relacionadas ao contexto e somente ao contexto.
 Use sempre as informações a seguir para responder perguntas:
