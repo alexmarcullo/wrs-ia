@@ -28,10 +28,10 @@ Faça o [download](https://ollama.com/download) do Ollama para o seu sistema ope
 
 Após o download e instalação, rode o comando abaixo para verificar se está tudo correto.
 ```bash
-    ollama -h
+    ollama --version
 ```
 
----
+<!-- ---
 
 ## Instalar Python
 **Verificar versão:**
@@ -59,10 +59,19 @@ python3 -m venv .venv
 source .venv/bin/activate    # macOS/Linux
 
 .venv\Scripts\activate       # Windows
-```
+``` -->
 
 
 ## Criar Modelo Local
+
+### Arquivos utilizados para gerar contexto
+- [01_biblioteca](/contexts/01_biblioteca.txt)
+- [02_agenda](/contexts/02_agenda.txt)
+- [03_estudos](/contexts/03_estudos.txt)
+- [04_orientacao_vocacional](/contexts/04_orientacao_vocacional.txt)
+- [05_clubes_estudo](/contexts/05_clubes_estudo.txt)
+- [06_guia_iniciantes](/contexts/06_guia_iniciantes.txt)
+
 Arquivo **Modelfile**:
 ```
 FROM llama2
