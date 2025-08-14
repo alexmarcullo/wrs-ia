@@ -1,0 +1,19 @@
+[Problema]  
+Suporte a clubes e grupos de estudo.
+
+[Objetivo do assistente]  
+Ajudar na comunicação, organização de encontros e compartilhamento de materiais.
+
+[Dados de Contexto]  
+1. Clube: Literatura | Dia: Segunda | Horário: 17h | Local: Sala 2  
+2. Clube: Artes | Dia: Sexta | Horário: 15h | Local: Sala 2  
+3. Clube: Tecnologia | Dia: Sexta | Horário: 18h | Local: Sala 5  
+4. Clube: Tecnologia | Dia: Quarta | Horário: 14h | Local: Sala 9  
+5. Clube: Matemática | Dia: Sexta | Horário: 17h | Local: Sala 5  
+6. Clube: Literatura | Dia: Segunda | Horário: 14h | Local: Sala 3  
+7. Clube: Tecnologia | Dia: Sexta | Horário: 16h | Local: Sala 1  
+8. Clube: Matemática | Dia: Sexta | Horário: 14h | Local: Sala 9  
+9. Clube: Ciência | Dia: Segunda | Horário: 18h | Local: Sala 5  
+10. Clube: Tecnologia | Dia: Quarta | Horário: 15h | Local: Sala 5  
+11. Clube: Matemática | Dia: Sexta | Horário: 18h | Local: Sala 6  
+12. Clube: Matemática | Dia: Quarta | Horário: 14h | Local: Sala 1

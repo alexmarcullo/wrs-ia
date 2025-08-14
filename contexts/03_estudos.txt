@@ -1,0 +1,47 @@
+[Problema]  
+Apoio a estudos para provas e trabalhos.
+
+[Objetivo do assistente]  
+Sugerir materiais e técnicas de estudo com base na matéria e na dificuldade do aluno.
+
+[Dados de Contexto]  
+1. Material: Guia de Revisão da Revolução Francesa | Matéria: História | Dica: Ler páginas 45 a 62 do livro "História Geral – Volume 2" e fazer resumo dos principais eventos.  
+2. Material: Apostila de Química Orgânica – Funções | Matéria: Química | Dica: Refazer exercícios de funções orgânicas da apostila 3, páginas 12 a 18.  
+3. Material: Mapa mental de Citologia | Matéria: Biologia | Dica: Revisar organelas celulares e suas funções, usando o esquema do caderno digital.  
+4. Material: Lista de Exercícios – Leis de Newton | Matéria: Física | Dica: Refazer todos os exercícios da página 87 do livro "Física Contexto & Aplicações".  
+5. Material: Resumo – Ecologia e Cadeias Alimentares | Matéria: Biologia | Dica: Ler capítulo 14 e criar exemplos próprios de cadeias alimentares.  
+6. Material: Linha do Tempo – Segunda Guerra Mundial | Matéria: História | Dica: Completar linha do tempo com datas-chave e líderes envolvidos.  
+7. Material: Exercícios – Óptica Geométrica | Matéria: Física | Dica: Resolver exercícios do caderno, páginas 25 a 30.  
+8. Material: Fichamento – Genética Mendeliana | Matéria: Biologia | Dica: Revisar capítulo 7 e anotar exemplos de cruzamentos.  
+9. Material: Prova Anterior – Química Inorgânica | Matéria: Química | Dica: Refazer as questões 1 a 15, corrigindo com o gabarito.  
+10. Material: Lista de Exercícios – Funções Polinomiais | Matéria: Matemática | Dica: Resolver questões do capítulo 3, páginas 40 a 46.  
+11. Material: Guia – Movimento Uniformemente Variado | Matéria: Física | Dica: Refazer exemplos resolvidos e criar dois novos problemas próprios.  
+12. Material: Quadro Comparativo – Ligações Químicas | Matéria: Química | Dica: Estudar quadro da página 56 e memorizar tipos de ligação.  
+13. Material: Resumo – Iluminismo | Matéria: História | Dica: Ler páginas 102 a 110 e fazer fichamento de três filósofos iluministas.  
+14. Material: Exercícios – Equilíbrio Químico | Matéria: Química | Dica: Refazer todos os problemas da página 89, livro "Química para o Ensino Médio".  
+15. Material: Guia – Guerra Fria | Matéria: História | Dica: Revisar bloco 4 e assistir vídeo indicado pelo professor.  
+16. Material: Apostila – Reações Orgânicas | Matéria: Química | Dica: Estudar páginas 23 a 35 e criar esquema das principais reações.  
+17. Material: Exercícios – Estequiometria | Matéria: Química | Dica: Resolver lista extra disponível no site da turma.  
+18. Material: Resumo – Termodinâmica | Matéria: Física | Dica: Revisar fórmulas principais e aplicá-las a três problemas novos.  
+19. Material: Fichamento – Brasil Colônia | Matéria: História | Dica: Completar fichamento da unidade 3, incluindo principais ciclos econômicos.  
+20. Material: Guia – Fotossíntese e Respiração Celular | Matéria: Biologia | Dica: Comparar processos em tabela.  
+21. Material: Exercícios – Reações Químicas | Matéria: Química | Dica: Resolver questões extras enviadas pelo professor via e-mail.  
+22. Material: Mapa mental – Tabela Periódica | Matéria: Química | Dica: Revisar grupos e períodos, anotando exemplos de elementos.  
+23. Material: Lista – Geometria Espacial | Matéria: Matemática | Dica: Resolver páginas 55 a 59 do caderno de exercícios.  
+24. Material: Resumo – Independência do Brasil | Matéria: História | Dica: Revisar bloco 5 e assistir vídeo complementar.  
+25. Material: Linha do Tempo – República Velha | Matéria: História | Dica: Completar com fatos marcantes e presidentes.  
+26. Material: Exercícios – Soluções e Concentração | Matéria: Química | Dica: Resolver todos os problemas propostos do capítulo 4.  
+27. Material: Fichamento – Evolução das Espécies | Matéria: Biologia | Dica: Ler capítulo 12 e registrar principais teorias evolutivas.  
+28. Material: Resumo – Renascimento Cultural | Matéria: História | Dica: Ler páginas 220 a 230 e criar linha do tempo dos principais artistas.  
+29. Material: Exercícios – Circuitos Elétricos | Matéria: Física | Dica: Refazer lista de exercícios enviada no grupo da turma.  
+30. Material: Guia – História da Química | Matéria: Química | Dica: Ler capítulo 1 e fazer linha do tempo.  
+31. Material: Exercícios – Trigonometria | Matéria: Matemática | Dica: Resolver questões de ângulos notáveis e lei dos senos.  
+32. Material: Resumo – História da África | Matéria: História | Dica: Revisar capítulo 8, destacando contribuições culturais.  
+33. Material: Exercícios – Funções Exponenciais | Matéria: Matemática | Dica: Resolver problemas de crescimento populacional.  
+34. Material: Guia – Ondas Mecânicas | Matéria: Física | Dica: Revisar conceitos de frequência, período e velocidade.  
+35. Material: Resumo – Primeira Guerra Mundial | Matéria: História | Dica: Ler páginas 300 a 315, criando linha do tempo.  
+36. Material: Exercícios – Cálculo Estequiométrico Avançado | Matéria: Química | Dica: Resolver problemas do nível 3 do livro.  
+37. Material: Fichamento – Ditadura Militar no Brasil | Matéria: História | Dica: Registrar eventos de 1964 a 1985.  
+38. Material: Exercícios – Logaritmos | Matéria: Matemática | Dica: Resolver lista 5 do caderno.  
+39. Material: Lista – Probabilidade | Matéria: Matemática | Dica: Resolver questões 1 a 10 do capítulo 9.  
+40. Material: Resumo – Genética Molecular | Matéria: Biologia | Dica: Revisar DNA, RNA e síntese proteica.

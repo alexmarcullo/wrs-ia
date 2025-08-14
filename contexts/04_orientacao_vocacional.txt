@@ -1,0 +1,27 @@
+[Problema]  
+Orientação vocacional.
+
+[Objetivo do assistente]  
+Sugerir áreas de estudo e profissões com base em interesses do aluno.
+
+[Dados de Contexto]  
+1. Área: Engenharia | Cursos: Engenharia Civil, Engenharia Mecânica, Engenharia Elétrica, Engenharia de Produção, Engenharia de Software | Profissões: Engenheiro de obras, projetista, engenheiro de automação, desenvolvedor de sistemas industriais.  
+2. Área: Medicina | Cursos: Medicina, Odontologia, Fisioterapia | Profissões: Médico clínico geral, cirurgião, pediatra, dentista, fisioterapeuta esportivo.  
+3. Área: Artes | Cursos: Artes Visuais, Música, Teatro, Dança, Design Gráfico | Profissões: Artista plástico, músico, ator, coreógrafo, designer de identidade visual.  
+4. Área: Educação | Cursos: Pedagogia, Licenciatura em Matemática, Letras, História, Educação Física | Profissões: Professor, coordenador pedagógico, tutor, especialista em educação inclusiva.  
+5. Área: Tecnologia | Cursos: Ciência da Computação, Análise e Desenvolvimento de Sistemas, Engenharia de Dados, Inteligência Artificial | Profissões: Desenvolvedor de software, analista de dados, especialista em segurança cibernética, arquiteto de soluções.  
+6. Área: Ciências Biológicas | Cursos: Biologia, Biomedicina, Biotecnologia | Profissões: Pesquisador, biólogo ambiental, analista de laboratório, consultor em genética.  
+7. Área: Direito | Cursos: Direito, Ciências Jurídicas | Profissões: Advogado, juiz, promotor de justiça, consultor jurídico.  
+8. Área: Comunicação | Cursos: Jornalismo, Publicidade e Propaganda, Relações Públicas, Produção Audiovisual | Profissões: Jornalista, publicitário, assessor de imprensa, roteirista.  
+9. Área: Administração | Cursos: Administração, Gestão Comercial, Logística, Gestão de Recursos Humanos | Profissões: Gerente de projetos, consultor de negócios, analista financeiro, coordenador de logística.  
+10. Área: Ciências Sociais | Cursos: Sociologia, Antropologia, Ciência Política | Profissões: Pesquisador social, analista de políticas públicas, professor universitário, consultor em projetos sociais.  
+11. Área: Arquitetura e Urbanismo | Cursos: Arquitetura, Urbanismo, Design de Interiores | Profissões: Arquiteto, urbanista, paisagista, consultor em sustentabilidade urbana.  
+12. Área: Enfermagem | Cursos: Enfermagem, Enfermagem Obstétrica, Enfermagem de Urgência e Emergência | Profissões: Enfermeiro assistencial, enfermeiro de UTI, gestor de enfermagem, consultor de saúde.  
+13. Área: Psicologia | Cursos: Psicologia Clínica, Psicologia Organizacional, Neuropsicologia | Profissões: Psicólogo clínico, psicólogo escolar, consultor de RH, terapeuta comportamental.  
+14. Área: Gastronomia | Cursos: Gastronomia, Confeitaria, Panificação | Profissões: Chef de cozinha, confeiteiro, consultor gastronômico, gestor de restaurante.  
+15. Área: Ciências Contábeis | Cursos: Ciências Contábeis, Auditoria, Controladoria | Profissões: Contador, auditor fiscal, analista contábil, consultor tributário.  
+16. Área: Moda | Cursos: Design de Moda, Produção de Moda, Consultoria de Imagem | Profissões: Estilista, consultor de imagem, visual merchandiser, gerente de produção têxtil.  
+17. Área: Farmácia | Cursos: Farmácia, Bioquímica, Análises Clínicas | Profissões: Farmacêutico clínico, farmacêutico industrial, analista de controle de qualidade, perito químico.  
+18. Área: Turismo e Hotelaria | Cursos: Turismo, Hotelaria, Eventos | Profissões: Agente de turismo, gerente de hotel, organizador de eventos, guia turístico.  
+19. Área: Medicina Veterinária | Cursos: Medicina Veterinária, Zootecnia | Profissões: Clínico veterinário, cirurgião de animais, zootecnista, pesquisador em saúde animal.  
+20. Área: Engenharia Ambiental | Cursos: Engenharia Ambiental, Gestão Ambiental, Saneamento Ambiental | Profissões: Consultor ambiental, analista de sustentabilidade, engenheiro de saneamento, gestor de resíduos sólidos.  

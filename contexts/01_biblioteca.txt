@@ -1,0 +1,60 @@
+# Problema
+Organização de livros na biblioteca.
+
+## Objetivo do Assistente
+Ajudar alunos e professores a localizar, reservar ou recomendar livros com base em interesse e necessidade.
+
+---
+
+## Dados de Contexto
+
+1. **Fundamentos de Matemática Elementar Vol. 1 – Conjuntos e Funções** | Gelson Iezzi | 2010 | Matemática | Introdução a conceitos básicos de conjuntos e funções. | Estante D, Prateleira 3, Nº 10  
+2. **Biologia – Volume Único** | Amabis & Martho | 2015 | Biologia | Estudo abrangente de biologia, cobrindo citologia, genética, ecologia e evolução. | Estante C, Prateleira 1, Nº 41  
+3. **Fundamentos de Física Vol. 1 – Mecânica** | Halliday, Resnick e Walker | 2016 | Física | Introdução à mecânica, cinemática e dinâmica. | Estante E, Prateleira 3, Nº 45  
+4. **Princípios de Física – Óptica e Termodinâmica** | Serway & Jewett | 2014 | Física | Fundamentos de óptica geométrica e física, e termodinâmica. | Estante D, Prateleira 5, Nº 111  
+5. **Geometria Analítica** | Paulo Winterle | 2004 | Matemática | Vetores, retas, planos e superfícies no espaço tridimensional. | Estante B, Prateleira 3, Nº 52  
+6. **Biologia Molecular da Célula** | Bruce Alberts | 2017 | Biologia | Referência sobre a estrutura e função celular em nível molecular. | Estante E, Prateleira 1, Nº 7  
+7. **História do Brasil** | Boris Fausto | 2012 | História | Panorama histórico do Brasil desde a colonização até os dias atuais. | Estante D, Prateleira 3, Nº 68  
+8. **Física Conceitual** | Paul G. Hewitt | 2015 | Física | Introdução à física para iniciantes, com enfoque conceitual. | Estante D, Prateleira 2, Nº 5  
+9. **Química – A Ciência Central** | Brown, LeMay & Bursten | 2018 | Química | Fundamentos de química geral, estequiometria e reações químicas. | Estante C, Prateleira 3, Nº 82  
+10. **Dom Casmurro** | Machado de Assis | 1899 | Literatura | Romance clássico brasileiro sobre ciúme e memória. | Estante C, Prateleira 5, Nº 26  
+11. **O Cortiço** | Aluísio Azevedo | 1890 | Literatura | Retrato da vida em um cortiço carioca no século XIX. | Estante C, Prateleira 2, Nº 18  
+12. **História Geral da Civilização Brasileira** | Sérgio Buarque de Holanda (org.) | 2006 | História | Formação política, social e econômica do Brasil. | Estante C, Prateleira 4, Nº 70  
+13. **A Era dos Extremos** | Eric Hobsbawm | 1994 | História | História mundial do século XX. | Estante C, Prateleira 1, Nº 47  
+14. **Química Orgânica** | Paula Yurkanis Bruice | 2017 | Química | Fundamentos da química orgânica, reações e mecanismos. | Estante A, Prateleira 3, Nº 22  
+15. **Cálculo – Volume 1** | James Stewart | 2017 | Matemática | Limites, derivadas e aplicações do cálculo diferencial. | Estante B, Prateleira 4, Nº 108  
+16. **Grande Sertão: Veredas** | João Guimarães Rosa | 1956 | Literatura | Romance brasileiro com linguagem poética e sertaneja. | Estante C, Prateleira 4, Nº 71  
+17. **Raízes do Brasil** | Sérgio Buarque de Holanda | 1936 | História | Formação social e cultural do Brasil. | Estante A, Prateleira 3, Nº 35  
+18. **O Gene: Uma História Íntima** | Siddhartha Mukherjee | 2016 | Biologia | História e impacto do estudo da genética. | Estante C, Prateleira 4, Nº 92  
+19. **Princípios de Química** | Peter Atkins | 2014 | Química | Fundamentos teóricos e práticos da química geral. | Estante C, Prateleira 4, Nº 49  
+20. **Eletromagnetismo** | David J. Griffiths | 2013 | Física | Introdução ao estudo do eletromagnetismo. | Estante E, Prateleira 4, Nº 22  
+21. **Geografia: Espaço e Vivência** | José William Vesentini | 2018 | Geografia | Análise geográfica do Brasil e do mundo contemporâneo. | Estante C, Prateleira 1, Nº 104  
+22. **Memórias Póstumas de Brás Cubas** | Machado de Assis | 1881 | Literatura | Romance satírico narrado por um defunto-autor. | Estante D, Prateleira 1, Nº 51  
+23. **História da Riqueza no Brasil** | Jorge Caldeira | 2017 | História | Panorama econômico da história brasileira. | Estante B, Prateleira 5, Nº 82  
+24. **Física Moderna** | Kenneth Krane | 2012 | Física | Relatividade, quântica e física nuclear. | Estante B, Prateleira 1, Nº 24  
+25. **História Concisa do Brasil** | Boris Fausto | 2014 | História | Resumo histórico do Brasil. | Estante D, Prateleira 5, Nº 57  
+26. **Álgebra Linear e Suas Aplicações** | Gilbert Strang | 2016 | Matemática | Conceitos e aplicações da álgebra linear. | Estante A, Prateleira 2, Nº 79  
+27. **Trigonometria** | Iezzi & Dolce | 2011 | Matemática | Funções trigonométricas e aplicações. | Estante C, Prateleira 3, Nº 111  
+28. **Mecânica dos Fluidos** | Frank M. White | 2016 | Física | Fundamentos e aplicações da mecânica de fluidos. | Estante A, Prateleira 5, Nº 27  
+29. **Zoologia dos Vertebrados** | Pough, Janis & Heiser | 2014 | Biologia | Estudo comparativo dos vertebrados. | Estante C, Prateleira 1, Nº 33  
+30. **Botânica: Introdução à Biologia das Plantas** | Raven, Evert & Eichhorn | 2013 | Biologia | Fundamentos de botânica. | Estante A, Prateleira 5, Nº 65  
+31. **Física para Cientistas e Engenheiros** | Douglas C. Giancoli | 2015 | Física | Curso completo de física. | Estante B, Prateleira 5, Nº 86  
+32. **História da Vida Privada no Brasil – Vol. 1** | Fernando Novais (org.) | 1997 | História | Vida cotidiana no Brasil colonial. | Estante D, Prateleira 1, Nº 98  
+33. **A História das Coisas** | Annie Leonard | 2010 | História | Impactos do consumo no mundo. | Estante C, Prateleira 4, Nº 17  
+34. **Geografia do Brasil** | Milton Santos | 2001 | Geografia | Análise crítica da geografia brasileira. | Estante D, Prateleira 3, Nº 119  
+35. **Capitães da Areia** | Jorge Amado | 1937 | Literatura | Crianças abandonadas em Salvador. | Estante A, Prateleira 5, Nº 91  
+36. **Tópicos de Física Vol. 1** | Bonjorno, Helou & Machado | 2015 | Física | Mecânica e cinemática para o ensino médio. | Estante E, Prateleira 4, Nº 95  
+37. **Química Inorgânica** | Gary L. Miessler | 2013 | Química | Teoria e prática da química inorgânica. | Estante D, Prateleira 1, Nº 31  
+38. **O Primo Basílio** | Eça de Queirós | 1878 | Literatura | Romance realista português. | Estante A, Prateleira 2, Nº 96  
+39. **Brasil: Uma Biografia** | Lilia Schwarcz & Heloisa Starling | 2015 | História | Panorama histórico e cultural do Brasil. | Estante A, Prateleira 1, Nº 111  
+40. **Química Ambiental** | Stanley Manahan | 2017 | Química | Impactos ambientais da química. | Estante E, Prateleira 5, Nº 78  
+41. **Genética** | Benjamin A. Pierce | 2014 | Biologia | Princípios de genética moderna. | Estante E, Prateleira 1, Nº 59  
+42. **História das Ideias no Brasil** | João Cruz Costa | 1967 | História | Formação intelectual brasileira. | Estante B, Prateleira 2, Nº 43  
+43. **História do Pensamento Político Brasileiro** | José Murilo de Carvalho | 2001 | História | Evolução do pensamento político no Brasil. | Estante A, Prateleira 3, Nº 18  
+44. **Vidas Secas** | Graciliano Ramos | 1938 | Literatura | Vida no sertão nordestino. | Estante E, Prateleira 3, Nº 86  
+45. **Atlas Geográfico Escolar** | IBGE | 2020 | Geografia | Mapas e dados geográficos. | Estante D, Prateleira 4, Nº 90  
+46. **Ecologia** | Robert E. Ricklefs | 2016 | Biologia | Princípios e interações ecológicas. | Estante B, Prateleira 3, Nº 96  
+47. **Climatologia** | Edward Aguado & James Burt | 2014 | Geografia | Estudo do clima e suas variações. | Estante D, Prateleira 2, Nº 57  
+48. **Biomas Brasileiros** | Ademir Reis | 2012 | Biologia | Principais biomas do Brasil. | Estante D, Prateleira 5, Nº 79  
+49. **Geografia Física** | Strahler & Strahler | 2005 | Geografia | Elementos naturais da Terra. | Estante A, Prateleira 1, Nº 102  
+50. **Cartografia** | Jorge Gaspar | 2010 | Geografia | Fundamentos da cartografia moderna. | Estante E, Prateleira 5, Nº 118  

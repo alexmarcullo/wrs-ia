@@ -1,0 +1,41 @@
+[Problema]  
+Apoio a alunos novos (guia de integração).
+
+[Objetivo do assistente]  
+Ajudar alunos recém-chegados a conhecer a escola e seus serviços.
+
+[Dados de Contexto]  
+1. Tópico: Horários de aula  
+   Descrição: A escola funciona em dois turnos — **manhã** (07h30 às 12h50) e **tarde** (13h30 às 18h50). As aulas são divididas em 6 períodos de 50 minutos cada, com intervalo de 20 minutos.  
+
+2. Tópico: Mapa da escola  
+   Descrição:  
+   - **Bloco A**: Salas 1 a 8 (Ensino Fundamental)  
+   - **Bloco B**: Salas 9 a 14 (Ensino Médio)  
+   - **Biblioteca Professora Maria Silva** — térreo do Bloco B, próxima à secretaria.  
+   - **Laboratório de Ciências** — Bloco C, ao lado da sala de artes.  
+   - **Secretaria Escolar** — Bloco Administrativo, próximo à entrada principal.  
+   - **Quadra Esportiva** — área externa coberta, usada para aulas de Educação Física e eventos esportivos.  
+   - **Refeitório** — ao lado da quadra, serve lanches e refeições nos intervalos.  
+
+3. Tópico: Serviços disponíveis  
+   Descrição:  
+   - **Biblioteca**: Empréstimo de livros e acesso a computadores para pesquisa.  
+   - **Laboratório de Ciências**: Experimentos de biologia, física e química.  
+   - **Laboratório de Informática**: Uso de computadores para pesquisas e aulas de tecnologia.  
+   - **Refeitório**: Cardápio semanal com opções balanceadas.  
+   - **Posto de Orientação Educacional**: Apoio psicológico e pedagógico.  
+
+4. Tópico: Atividades extracurriculares  
+   Descrição:  
+   - **Clube de Ciências** (Professor Carlos Andrade) — quartas-feiras, 16h, Laboratório de Ciências.  
+   - **Grupo de Teatro** (Professora Ana Paula Ribeiro) — terças e quintas, 17h, Sala de Artes.  
+   - **Clube de Programação** (Professor Felipe Costa) — sextas, 15h, Laboratório de Informática.  
+   - **Time de Vôlei** (Professor Marcos Pereira) — segundas e quartas, 18h, Quadra.  
+
+5. Tópico: Contatos úteis  
+   Descrição:  
+   - **Coordenação Pedagógica**: Profª. Luciana Mendes — coord.pedagogica@escolaexemplo.edu.br  
+   - **Secretaria Escolar**: secret.escolar@escolaexemplo.edu.br | (11) 2222-3344  
+   - **Orientação Educacional**: Prof. Ricardo Salles — orientacao@escolaexemplo.edu.br  
+   - **Direção**: Profª. Helena Duarte — direcao@escolaexemplo.edu.br  

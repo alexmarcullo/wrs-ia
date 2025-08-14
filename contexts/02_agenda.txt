@@ -1,0 +1,57 @@
+[Problema]  
+Agenda e avisos escolares.
+
+[Objetivo do assistente]  
+Informar sobre provas, eventos, reuniões e prazos.
+
+[Dados de Contexto]  
+1. Evento: Prova de Matemática | Data: 2025-08-21 | Local: Sala 2 | Descrição: Avaliação de Álgebra e Funções para o 2º ano do Ensino Médio.  
+2. Evento: Campeonato Interno de Futsal | Data: 2025-08-22 | Local: Quadra | Descrição: Jogos eliminatórios da categoria juvenil.  
+3. Evento: Apresentação de Teatro | Data: 2025-08-23 | Local: Auditório | Descrição: Peça "Auto da Barca do Inferno" pelos alunos do 3º ano.  
+4. Evento: Feira de Ciências | Data: 2025-08-24 | Local: Ginásio | Descrição: Exposição de projetos científicos das turmas do Ensino Médio.  
+5. Evento: Reunião de Pais e Mestres | Data: 2025-08-25 | Local: Sala de Reuniões | Descrição: Apresentação de resultados bimestrais.  
+6. Evento: Prova de Química | Data: 2025-08-26 | Local: Sala 1 | Descrição: Avaliação sobre ligações químicas e reações orgânicas.  
+7. Evento: Oficina de Robótica | Data: 2025-08-27 | Local: Laboratório de Informática | Descrição: Construção de robôs com kits Lego Mindstorms.  
+8. Evento: Campeonato de Xadrez | Data: 2025-08-28 | Local: Biblioteca | Descrição: Torneio classificatório para competição municipal.  
+9. Evento: Aula de Campo – Museu de História Natural | Data: 2025-08-29 | Local: Saída em frente à escola | Descrição: Visita guiada ao museu para estudo de fósseis e biodiversidade.  
+10. Evento: Sarau Literário | Data: 2025-08-30 | Local: Auditório | Descrição: Leitura e apresentação de poesias autorais e clássicas.  
+11. Evento: Prova de Física | Data: 2025-09-01 | Local: Sala 2 | Descrição: Avaliação sobre cinemática e leis de Newton.  
+12. Evento: Gincana Solidária | Data: 2025-09-02 | Local: Pátio | Descrição: Atividades recreativas e arrecadação de alimentos.  
+13. Evento: Ensaio da Banda Escolar | Data: 2025-09-03 | Local: Sala de Música | Descrição: Preparação para apresentação no desfile cívico.  
+14. Evento: Prova de História | Data: 2025-09-04 | Local: Sala 3 | Descrição: Conteúdo sobre Era Vargas e Ditadura Militar.  
+15. Evento: Palestra sobre Cidadania Digital | Data: 2025-09-05 | Local: Auditório | Descrição: Uso seguro e ético da internet.  
+16. Evento: Prova de Biologia | Data: 2025-09-06 | Local: Sala 1 | Descrição: Avaliação sobre genética e biotecnologia.  
+17. Evento: Apresentação de Dança | Data: 2025-09-08 | Local: Quadra Coberta | Descrição: Coreografias criadas pelos alunos do ensino médio.  
+18. Evento: Reunião do Grêmio Estudantil | Data: 2025-09-09 | Local: Sala 4 | Descrição: Discussão de propostas para melhorias na escola.  
+19. Evento: Olimpíada de Matemática – Fase Escolar | Data: 2025-09-10 | Local: Sala 2 | Descrição: Seleção para fase municipal.  
+20. Evento: Aula Aberta de Artes Visuais | Data: 2025-09-11 | Local: Sala de Artes | Descrição: Exposição de trabalhos e oficinas para pais e comunidade.  
+21. Evento: Prova de Geografia | Data: 2025-09-12 | Local: Sala 1 | Descrição: Avaliação sobre geopolítica e mudanças climáticas.  
+22. Evento: Torneio de Vôlei | Data: 2025-09-13 | Local: Quadra | Descrição: Jogos finais do campeonato escolar.  
+23. Evento: Sessão de Cinema | Data: 2025-09-15 | Local: Auditório | Descrição: Exibição do filme "Narradores de Javé" e debate.  
+24. Evento: Prova de Inglês | Data: 2025-09-16 | Local: Sala 2 | Descrição: Avaliação de compreensão de texto e gramática.  
+25. Evento: Oficina de Fotografia | Data: 2025-09-17 | Local: Sala de Artes | Descrição: Técnicas de fotografia com câmera e celular.  
+26. Evento: Campeonato de Atletismo | Data: 2025-09-18 | Local: Campo da Escola | Descrição: Corridas e salto em distância.  
+27. Evento: Palestra Motivacional | Data: 2025-09-19 | Local: Auditório | Descrição: Tema "Construindo seu Futuro".  
+28. Evento: Prova de Filosofia | Data: 2025-09-20 | Local: Sala 3 | Descrição: Conteúdo sobre ética e filosofia moderna.  
+29. Evento: Apresentação de Coral | Data: 2025-09-22 | Local: Auditório | Descrição: Cantata de músicas populares e eruditas.  
+30. Evento: Simulado ENEM | Data: 2025-09-23 | Local: Salas 1 a 5 | Descrição: Prova de preparação para o ENEM.  
+31. Evento: Feira de Profissões | Data: 2025-09-24 | Local: Ginásio | Descrição: Exposição de universidades e empresas parceiras.  
+32. Evento: Prova de Artes | Data: 2025-09-25 | Local: Sala 4 | Descrição: Avaliação prática de pintura e escultura.  
+33. Evento: Aula de Campo – Parque Estadual | Data: 2025-09-26 | Local: Saída em frente à escola | Descrição: Observação da flora e fauna.  
+34. Evento: Prova de Sociologia | Data: 2025-09-27 | Local: Sala 1 | Descrição: Análise de movimentos sociais.  
+35. Evento: Campeonato de Basquete | Data: 2025-09-29 | Local: Quadra | Descrição: Finais da competição escolar.  
+36. Evento: Oficina de Programação | Data: 2025-09-30 | Local: Laboratório de Informática | Descrição: Introdução a Python para alunos do Ensino Médio.  
+37. Evento: Prova de Literatura | Data: 2025-10-01 | Local: Sala 2 | Descrição: Análise de obras do modernismo brasileiro.  
+38. Evento: Gincana Cultural | Data: 2025-10-02 | Local: Pátio | Descrição: Competições de conhecimentos gerais.  
+39. Evento: Prova de Educação Física | Data: 2025-10-03 | Local: Quadra | Descrição: Avaliação de resistência e habilidades esportivas.  
+40. Evento: Apresentação Musical | Data: 2025-10-04 | Local: Auditório | Descrição: Show com bandas formadas por alunos.  
+41. Evento: Semana da Leitura | Data: 2025-10-06 | Local: Biblioteca | Descrição: Leituras coletivas e contação de histórias.  
+42. Evento: Palestra sobre Meio Ambiente | Data: 2025-10-07 | Local: Auditório | Descrição: Sustentabilidade e mudanças climáticas.  
+43. Evento: Prova de Espanhol | Data: 2025-10-08 | Local: Sala 1 | Descrição: Compreensão oral e escrita.  
+44. Evento: Torneio de Handebol | Data: 2025-10-09 | Local: Quadra | Descrição: Disputas entre turmas do Ensino Médio.  
+45. Evento: Oficina de Pintura | Data: 2025-10-10 | Local: Sala de Artes | Descrição: Técnicas de aquarela e óleo sobre tela.  
+46. Evento: Prova de Química Orgânica | Data: 2025-10-11 | Local: Sala 2 | Descrição: Compostos, reações e propriedades.  
+47. Evento: Dia da Família na Escola | Data: 2025-10-13 | Local: Pátio | Descrição: Atividades de integração.  
+48. Evento: Oficina de Empreendedorismo | Data: 2025-10-14 | Local: Sala de Inovação | Descrição: Criação de pequenos negócios.  
+49. Evento: Campeonato de Tênis de Mesa | Data: 2025-10-15 | Local: Quadra Coberta | Descrição: Torneio rápido com premiações.  
+50. Evento: Palestra sobre Carreiras em Tecnologia | Data: 2025-10-16 | Local: Auditório | Descrição: Profissões do futuro e IA.

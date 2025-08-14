@@ -31,10 +31,6 @@ Após o download e instalação, rode o comando abaixo para verificar se está t
     ollama -h
 ```
 
-
-
-
-
 ---
 
 ## Instalar Python
@@ -70,14 +66,27 @@ source .venv/bin/activate    # macOS/Linux
 Arquivo **Modelfile**:
 ```
 FROM llama2
-SYSTEM "Você é um assistente especializado em recomendações de livros de ciências para estudantes."
+SYSTEM """
+Você é um assistente especializado em orientar alunos em perguntas relacionadas ao contexto e somente ao contexto.
+Use sempre as informações a seguir para responder perguntas:
+
+[CONTEXT]
+Cole aqui o contexto no qual o agente será especializado
+[/CONTEXT]
+
+## Diretrizes importantes
+- Sempre responda em português do brasil
+- Sempre responda de forma clara, com exemplos práticos e linguagem acessível para alunos do Ensino Médio.
+- Não responda sobre quaisquer outros assuntos que não estejam relacionado ao contexto mencionado
+"""
+
 ```
 
 Criar modelo:
 ```bash
 ollama create agente_ciencias -f Modelfile
 ```
-
+<!-- 
 ---
 
 ## Instalar Dependências Python
@@ -87,7 +96,7 @@ pip install gradio
 
 ---
 
-## 7. Criar o Script `app.py`
+## Criar o Script `app.py`
 ```python
 import subprocess
 import gradio as gr
@@ -121,7 +130,7 @@ if __name__ == "__main__":
 
 ---
 
-## 8. Executar o Servidor
+## Executar o Servidor
 ```bash
 python app.py
 ```
@@ -134,9 +143,9 @@ ou na rede local:
 http://IP_DA_MAQUINA:7860
 ```
 
----
+--- -->
 
-## 9. Dicas para o Workshop
+## Dicas para o Workshop
 - Baixar e testar o modelo **antes**
 - Garantir que o Ollama esteja rodando (`ollama serve`)
 - Ter todos os arquivos prontos no pendrive ou Google Drive offline
